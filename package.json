@@ -1,0 +1,14 @@
+{
+  "name": "launchpad-rgb-painter",
+  "version": "1.0.0",
+  "description": "A simple 8x8 RGB \"painting\" app for the Novation Launchpad MK2.",
+  "main": "launchpad-rgb-painter.js",
+  "scripts": {
+    "start": "node launchpad-rgb-painter.js"
+  },
+  "author": "Dave Hilowitz <dhilowitz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "launchpad-mk2": "^2.0.3"
+  }
+}
